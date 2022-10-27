@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.fbtittle{
+    text-align: center;
+    text-height: 45px;
+    margin: 45px 0;
+}.fbimages{
+    display: flex;
+    justify-content: space-between;
+}.fbdiv i{color:  #FC1200;
+   
+}.fbdiv span i{
+     color: orange;
+   
+}.fbdiv p{
+    color: lightgray;
+}.fbdiv p span{
+    color: black;
+}.fbdiv{
+    line-height: 35px;
+}
