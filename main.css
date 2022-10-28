@@ -22,3 +22,93 @@
 }.fbdiv{
     line-height: 35px;
 }
+
+
+
+.ascenter{
+    margin: auto;
+    width: 75%;
+}
+.asblog{
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    margin-top: 12%;
+    margin-bottom: 5%;
+}
+#aswelc{
+    margin-top: 5%;
+    color: gray;
+}
+.aspictures{
+    display: flex;
+}
+.asleftpic{
+    width: 32%;
+}
+#asbanff{
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+#asnational{
+    color: gray;
+    line-height: 160%;
+    margin-bottom: 4%;
+}
+.asrightpic{
+    width: 42%;
+    margin-left: 17%;
+}
+.aspic1 img{
+    width: 50%;
+    display: flex;
+    margin: 0% 4% 4% 4%;
+   
+}
+.aspic1{
+    display: flex;
+}
+.aspictext{
+    margin-top: 6%;
+}
+
+
+.asfooter{
+    margin-top: 10%;
+    background: rgba(38, 148, 153, 0.04);
+}
+.asfootcenter{
+    display: flex;
+    margin: auto;
+    width: 75%;
+}
+.asdiv1{
+    padding: 5%;
+}
+#ascom{
+    margin: 7% 0% 7% 0%;
+}
+.asicon i{
+    padding-right: 1.5%;
+}
+.asdiv2{
+    padding: 5%;
+    width: 20%;
+    
+}
+.asdiv2 ul li{
+    list-style: none;
+    padding: 3%;
+    font-weight: 600;
+    cursor: pointer;
+}
+.asdiv3{
+    width: 20%;
+    padding: 5%;
+}
+.asdiv3 ul li{
+    list-style: none;
+    padding: 3%;
+    font-weight: 600;
+    cursor: pointer;
+}
